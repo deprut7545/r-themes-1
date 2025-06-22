@@ -253,9 +253,9 @@
             "#000000"
         ],
         "INFO_POSITIVE_TEXT": [
-            "#ffffff",
-            "#ffffff",
-            "#ffffff"
+            "#dcddde",
+            "#0a2848",
+            "#dcddde"
         ],
         "INFO_WARNING_BACKGROUND": [
             "#0a2848",
