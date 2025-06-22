@@ -1,6 +1,6 @@
 {
-    "name": "Deprut's Theme test-1",
-    "description": "First test for Deprut's personal theme.",
+    "name": "Deprut's Theme test1",
+    "description": "First test for Deprut's personal theme",
 	"authors": [
       {
          "name": "Deprut"
@@ -442,7 +442,7 @@
         "YELLOW_300": "#2780E6"
     },
     "background": {
-        "url": "https://github.com/deprut7545/r-themes-1/blob/main/Pertunjukan_Wayang_Kulit.jpg%20(1).png"
+        "url": "https://github.com/deprut7545/r-themes-1/blob/main/Pertunjukan_Wayang_Kulit.jpg%20(1).png?raw=true"
     },
     "plus": {
         "version": 0,
